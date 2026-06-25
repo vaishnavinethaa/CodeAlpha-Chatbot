@@ -51,4 +51,4 @@ Through this project, I learned:
 
 ## Author
 Vaishnavi Joga
-ECE Student | Python Learner | Future AI Engineer
+ECE Student | Python & AI Learner |
